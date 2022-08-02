@@ -24,7 +24,7 @@ const dayCalc = (date) => {
   let todayTimestamp = Date.parse(today);
   let timestamp = Date.parse(date);
 
-  // Date.parse convertir en timestamp
+  // Date.parse convertit en timestamp
 
   return Math.ceil((todayTimestamp - timestamp) / (1000 * 60 * 60 * 24));
 };
