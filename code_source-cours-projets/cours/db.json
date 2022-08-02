@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "pseudo": "From Scratch",
+      "message": "Yo les gens !",
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "pseudo": "From Scratch",
+      "age": 25,
+      "id": 1
+    }
+  ]
+}
